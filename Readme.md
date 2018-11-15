@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ExampleHelper.cs](./CS/FavoriteList/ExampleHelper.cs) (VB: [ExampleHelper.vb](./VB/FavoriteList/ExampleHelper.vb))
+* **[Form1.cs](./CS/FavoriteList/Form1.cs) (VB: [Form1.vb](./VB/FavoriteList/Form1.vb))**
+* [Program.cs](./CS/FavoriteList/Program.cs) (VB: [Program.vb](./VB/FavoriteList/Program.vb))
+* [ToolTipObject.cs](./CS/FavoriteList/ToolTipObject.cs) (VB: [ToolTipObject.vb](./VB/FavoriteList/ToolTipObject.vb))
+<!-- default file list end -->
 # How to show a hint on hovering over the BarItem's glyph and execute an action on click
 
 
